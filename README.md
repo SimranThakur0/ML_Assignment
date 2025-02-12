@@ -1,4 +1,4 @@
-# Key Findings from Customer Insights Task
+# Key Findings from Customer Insights Task 
  
 ### 1. **Most Profitable Customer Segments**
    - The most profitable customer segments are those categorized as "Premium" buyers, specifically in the **YOUNG SINGLES/COUPLES** and **MIDAGE SINGLES/COUPLES** groups. These segments contribute significantly to the total sales when compared to their "Budget" counterparts.
